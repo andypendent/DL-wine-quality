@@ -1,13 +1,5 @@
 # Deep learning - Wine Quality challenge
 
-- Repository: `DL-wine-quality`
-- Type of Challenge: `Learning`
-- Duration: `3 days`
-- Deadline: `dd/mm/yy H:i AM/PM`
-- Deployment strategy :
-  - Github page
-- Team challenge : `solo`
-
 ![wine-searcherv(Image)](https://www.wine-searcher.com/images/news/74/12/faves1-10007412.jpg)
 
 ## Mission objectives
